@@ -2,7 +2,7 @@
     "repositories": [
         {
             "type": "github",
-            "url": "https://github.com/ohdonpiano/ZendService_Apple_Apns"
+            "url": "https://github.com/indahash/ZendService_Apple_Apns"
         }
     ],
     "name": "sly/notification-pusher",
