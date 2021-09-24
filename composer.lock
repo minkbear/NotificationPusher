@@ -1741,12 +1741,12 @@
             "version": "1.4.2",
             "source": {
                 "type": "git",
-                "url": "https://github.com/ohdonpiano/ZendService_Apple_Apns.git",
+                "url": "https://github.com/indahash/ZendService_Apple_Apns.git",
                 "reference": "e32aca1f6556ed71092bd026db89b811560bdf63"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ohdonpiano/ZendService_Apple_Apns/zipball/e32aca1f6556ed71092bd026db89b811560bdf63",
+                "url": "https://api.github.com/repos/indahash/ZendService_Apple_Apns/zipball/e32aca1f6556ed71092bd026db89b811560bdf63",
                 "reference": "e32aca1f6556ed71092bd026db89b811560bdf63",
                 "shasum": ""
             },
