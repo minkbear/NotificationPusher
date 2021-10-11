@@ -5,7 +5,7 @@
             "url": "https://github.com/indahash/ZendService_Apple_Apns"
         }
     ],
-    "name": "sly/notification-pusher",
+    "name": "minkbear/notification-pusher",
     "description": "Standalone PHP library for easy devices notifications push.",
     "keywords": [
         "apple",
